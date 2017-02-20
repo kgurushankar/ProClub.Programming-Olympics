@@ -8,8 +8,7 @@ public class R3A1 {
 		char[] numbers=(in.nextLine()).toCharArray();
 		int[] num = 
 		for (int i = 0; i<numbers.length; i++){
-			 num[]
-					 = Character.getNumericValue(numbers[i]);
+			 num[] x = Character.getNumericValue(numbers[i]);
 		}
 		
 	}
