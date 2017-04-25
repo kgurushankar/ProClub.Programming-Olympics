@@ -7,7 +7,7 @@ public class R1A1 {
 		Scanner in = new Scanner(System.in);
 		int a = in.nextInt();
 		int b = in.nextInt();
-		int[] test = (in.nextLine()).split(" ")
+		String[] test = (in.nextLine()).split(" ");
 	}
-	
+
 }
